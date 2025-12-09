@@ -1,0 +1,15 @@
+h11
+mysql-connector-python
+PyJWT
+PyMySQL
+pyOpenSSL
+pyparsing
+PySocks
+SQLAlchemy
+sqlparse
+trio-websocket
+virtualenv
+whitenoise
+uvicorn
+fastapi
+gunicorn
